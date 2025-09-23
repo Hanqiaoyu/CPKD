@@ -2,7 +2,8 @@
 > This work proposes a customized Clinical Priors-inspired Privileged Knowledge Distillation (CPKD) framework that employs magnetic resonance imaging (MRI) as a privileged modality for reliable pancreatic lesion classification.
 
 ## 🧠 Introduction
-Accurate classification of pancreatic lesions is critical for guiding treatment decisions, with computed tomography (CT) being the primary modality owing to its high spatial resolution.  
+
+> Accurate classification of pancreatic lesions is critical for guiding treatment decisions, with computed tomography (CT) being the primary modality owing to its high spatial resolution.  
 While CT-based deep learning has shown promise, low soft-tissue contrast can complicate the diagnosis of challenging samples, such as small or isoattenuating lesions.  
 ---
 
